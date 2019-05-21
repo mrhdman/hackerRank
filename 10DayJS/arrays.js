@@ -15,5 +15,4 @@ function getSecondLargest(nums) {
     return second;
 }
 
-getSecondLargest(82928);
-
+false == 0;
